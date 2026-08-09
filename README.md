@@ -1,121 +1,304 @@
-🎬 Video Script Writer Portfolio
+<div align="center">
 
-About Me
+✦ VIDEO SCRIPT WRITER
 
-Hey! I’m a video script writer focused on creating engaging and easy-to-follow scripts that keep viewers interested.
+YouTube • Shorts • Gaming • Storytelling • Commentary
 
-I can write scripts for YouTube videos, Shorts, TikTok, Reels, gaming content, commentary, storytelling, and promotional videos. I focus on strong hooks, good pacing, and making scripts sound natural instead of robotic or AI-generated.
-
-✍️ What I Can Write
-
-* YouTube long-form scripts
-* YouTube Shorts
-* TikTok & Instagram Reels
-* Gaming / Minecraft videos
-* Commentary videos
-* Storytelling content
-* Promotional videos
-* Tutorials & informational videos
-* Voice-over scripts
-
-🎯 My Writing Style
-
-I try to make every script:
-
-Attention-Grabbing — A strong opening that makes viewers want to keep watching.
-
-Natural — Scripts that sound like an actual person talking.
-
-Fast-Paced — No unnecessary filler that makes viewers lose interest.
-
-Audience Focused — I can change the tone depending on the creator and their viewers.
-
-Easy to Edit — Clear structure that makes recording and editing easier.
+Words that keep them watching.
 
 ⸻
 
-📄 Script Samples
+Hooks that stop the scroll. Stories that hold attention. Scripts built for creators.
 
-Sample 1 — YouTube Short / Gaming
+</div>
 
-Title: The Minecraft Trick Most Players Don’t Know
+ABOUT ME
 
-You’ve probably walked past this hundreds of times without realizing what you can actually do with it.
+I’m a video script writer focused on turning simple ideas into engaging, natural, and well-structured videos.
 
-Most Minecraft players use water buckets to survive falls, but there’s another way to save yourself.
+I write for YouTube, TikTok, Instagram Reels, gaming channels, commentary creators, and short-form content.
 
-If you’re falling near a wall, place a boat right before hitting the ground and quickly enter it.
+My goal isn’t just to fill a page with words. Every script is written with the viewer in mind — from the first few seconds to the final line.
 
-If you time it correctly, you can completely avoid the fall damage.
+I focus on:
 
-It takes some practice, but once you learn it, it can save you in situations where you don’t have a water bucket.
+⚡ Strong Hooks — Give viewers a reason to stay.
 
-Would you actually use this?
+🎯 Audience Retention — Keep the script moving without unnecessary filler.
 
-⸻
+🎬 Storytelling — Turn information into something entertaining.
 
-Sample 2 — YouTube Commentary
+💬 Natural Dialogue — Scripts that sound good when spoken, not like an essay.
 
-Title: Why Some YouTube Channels Suddenly Blow Up
-
-Have you ever seen a channel with almost no subscribers suddenly start getting millions of views?
-
-It might look like luck, but usually there’s more happening behind the scenes.
-
-Successful creators constantly test their titles, thumbnails, hooks, and video ideas.
-
-When one video finally works, they don’t immediately switch to something completely different.
-
-They figure out what made people click and watch—and then improve on it.
-
-Going viral can involve luck, but knowing what to do after that viral video is what can turn one successful upload into an actual channel.
+🔎 Research — Understand the topic before writing about it.
 
 ⸻
 
-Sample 3 — Short-Form Hook
+SERVICES
 
-You have about three seconds before someone decides whether they’re watching your video or scrolling away.
+🎬 YouTube Scripts
 
-And this is where most creators make their first mistake.
+Long-form scripts with hooks, storytelling, smooth transitions, and strong endings.
 
-They start with:
+⚡ Shorts / TikTok / Reels
+
+Fast-paced scripts built to grab attention immediately and deliver value quickly.
+
+🎮 Gaming Scripts
+
+Minecraft, gaming challenges, updates, commentary, tutorials, stories, and entertainment.
+
+🎙️ Commentary
+
+Conversational scripts that combine information, opinions, storytelling, and entertainment.
+
+📖 Storytelling
+
+Stories structured around curiosity, tension, progression, and payoff.
+
+📢 Promotional Scripts
+
+Scripts for products, communities, games, servers, brands, and social media promotions.
+
+⸻
+
+✦ FEATURED WORK
+
+01 — GAMING / MINECRAFT
+
+“The Minecraft Mistake That Could Ruin Your World”
+
+[HOOK]
+
+You could spend hundreds of hours building your Minecraft world…
+
+and lose everything because of one mistake.
+
+And the scary part?
+
+Most players don’t think about it until it’s too late.
+
+[SETUP]
+
+Imagine you’ve finally finished your base.
+
+You have enchanted Netherite gear, stacks of diamonds, rare items and everything you’ve collected since day one.
+
+Then one day, your world gets corrupted.
+
+No backup.
+
+No second copy.
+
+Everything is gone.
+
+[PAYOFF]
+
+That’s why one of the smartest things you can do is regularly back up your important worlds.
+
+It takes less than a minute…
+
+but it could save hundreds of hours of work.
+
+Sometimes the most useful Minecraft tricks aren’t the ones you use inside the game.
+
+⸻
+
+02 — YOUTUBE / CREATOR CONTENT
+
+“Why Your Videos Aren’t Getting Views”
+
+You spend three hours editing.
+
+Another hour making the thumbnail.
+
+You finally upload the video…
+
+23 views.
+
+So you blame the algorithm.
+
+But the algorithm might not be your biggest problem.
+
+Before YouTube can recommend your video, someone has to actually want to click it.
+
+Your idea creates interest.
+
+Your thumbnail gets attention.
+
+Your title creates curiosity.
+
+And your opening decides whether they stay.
+
+You can have amazing editing, expensive equipment, and perfect quality…
+
+but none of that matters if viewers aren’t interested in the idea.
+
+Don’t just ask:
+
+“How can I edit this better?”
+
+Ask:
+
+“Would I click this if someone else uploaded it?”
+
+⸻
+
+03 — SHORT-FORM
+
+“You Have 3 Seconds”
+
+You have around three seconds to convince someone not to scroll.
+
+And you’re spending those seconds saying:
 
 “Hey guys, welcome back to another video…”
 
-But your viewer doesn’t know you yet.
+The viewer doesn’t know you yet.
 
-Give them a reason to stay first.
+They need a reason to care.
 
-Instead, open with the most interesting part of the story.
+Start with the craziest part.
 
-Then explain how you got there.
+Ask an interesting question.
 
-That’s how you turn a scroll into a view.
+Show them a problem.
+
+Make them curious.
+
+Earn their attention first.
+
+Introduce yourself later.
 
 ⸻
 
-🧠 How I Work
+04 — GAMING CHALLENGE
 
-Before writing, I look at the topic, target audience, video length, creator’s style, and purpose of the video.
+“I Survived Minecraft With Only ONE Heart”
 
-Then I build the script around:
+One heart.
 
-Hook → Setup → Main Content → Retention Points → Payoff → CTA
+No regeneration.
 
-I can also adjust scripts based on feedback and match the writing style of a creator’s existing videos.
+And if I take one more hit…
 
-🎮 Niches I’m Interested In
+the entire challenge is over.
 
-Gaming • Minecraft • Technology • Entertainment • Commentary • Storytelling • Social Media • YouTube
+My goal sounds simple:
 
-I’m also open to researching and writing for other niches.
+Defeat the Ender Dragon.
 
-🤝 Why Work With Me?
+But there’s one problem.
 
-I care about making scripts that are actually enjoyable to watch, not just filling a word count. I’m open to feedback, willing to make changes, and I can adapt my writing to match different creators and audiences.
+Even the weakest Minecraft mob can end the run instantly.
 
-📩 Contact
+So before I even think about fighting the dragon, I need food, armor, resources and somehow a way to survive without taking damage.
 
-GitHub: NOTCOFFIN
+And that’s where things started going wrong…
 
-Available for video script writing, short-form content, gaming scripts, and other content-writing opportunities.
+⸻
+
+HOW I WRITE
+
+Every script starts with one question:
+
+Why should the viewer keep watching?
+
+I build around that question using:
+
+01 — Research
+Understand the topic, creator, audience, and objective.
+
+↓
+
+02 — Hook
+Create immediate curiosity.
+
+↓
+
+03 — Setup
+Give viewers enough context without slowing down the video.
+
+↓
+
+04 — Progression
+Keep introducing information, questions, problems, or developments.
+
+↓
+
+05 — Retention
+Remove filler and keep transitions moving naturally.
+
+↓
+
+06 — Payoff
+Deliver what the opening promised.
+
+↓
+
+07 — CTA
+End naturally without forcing an unnecessary call-to-action.
+
+⸻
+
+SKILLS
+
+Script Writing • YouTube Content • Short-Form Content
+
+Hook Writing • Storytelling • Research
+
+Audience Retention • Gaming Content • Minecraft
+
+Commentary • Voice-Over Scripts • Content Ideas
+
+⸻
+
+WHY WORK WITH ME?
+
+✦ Creator-Focused
+
+I don’t use the same writing style for every channel. I can adapt scripts around the creator’s personality and audience.
+
+✦ Natural Writing
+
+Scripts are written to be spoken out loud, so I avoid unnecessary complicated wording.
+
+✦ Feedback Friendly
+
+If something doesn’t match your vision, I’m open to feedback and revisions.
+
+✦ Flexible
+
+Short-form, long-form, gaming, storytelling, commentary or promotional content — I can adapt depending on the project.
+
+✦ Retention Focused
+
+I pay attention to hooks, pacing, curiosity, transitions, and payoffs instead of simply reaching a word count.
+
+⸻
+
+WORK WITH ME
+
+Have an idea but don’t know how to turn it into a video?
+
+Send me the topic, your channel style, and the type of video you want.
+
+I’ll turn the idea into a structured script designed to sound natural and keep viewers interested.
+
+AVAILABLE FOR
+
+One-Time Projects • Ongoing Work • YouTube Channels • Short-Form Creators • Gaming Creators
+
+⸻
+
+<div align="center">
+
+✦ LET’S CREATE SOMETHING WORTH WATCHING.
+
+VIDEO SCRIPT WRITER
+
+YouTube • Shorts • Gaming • Storytelling
+
+Words That Keep Them Watching.
+
+</div>
